@@ -1,0 +1,6 @@
+
+setup_proplus.exe :本体
+
+stop.vbs :检测本体进程是否存在，如否启动stop.exe
+
+stop.exe :备用蓝屏程序
